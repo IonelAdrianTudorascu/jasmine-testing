@@ -1,3 +1,3 @@
-function addition(numUnu, numDoi) {
-    return numUnu + numDoi;
+function addition(numOne, numTwo) {
+    return numOne + numTwo;
 }
